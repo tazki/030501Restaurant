@@ -303,7 +303,7 @@ if (isset($imageslider_rows) && is_array($imageslider_rows)) {
          <script src="<?php echo base_url('js/vendor/lightGallery/js/lightgallery-all.min.js'); ?>"></script>
          <script src="<?php echo base_url('js/vendor/sweetalert2.all.js'); ?>"></script>
          <script src="<?php echo base_url('js/vendor/sweetalert2.min.css'); ?>"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABKowjQ1Ekc1JQakrSa_re4JsdfjW994U"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key="></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
         <!-- <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script> -->
